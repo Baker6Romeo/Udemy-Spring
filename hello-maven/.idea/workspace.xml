@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7fbfaff-b602-429c-96fb-492cee0c84c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+    <list default="true" id="f7fbfaff-b602-429c-96fb-492cee0c84c9" name="Changes" comment="Added logging config">
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/core/src/main/java/baker6romeo/udemy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guess-the-number-game/core/src/main/resources/logback.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1637762540336</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added logging config">
+      <created>1638288594972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638288594972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +93,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added logging config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added logging config" />
   </component>
 </project>
