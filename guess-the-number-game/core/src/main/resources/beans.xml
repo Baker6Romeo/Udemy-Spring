@@ -4,6 +4,9 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <bean id="game" class="baker6romeo.udemy.GameImpl">
+        <constructor-arg ref="numberGenerator"/>
+    </bean>
     <bean id="numberGenerator" class="baker6romeo.udemy.NumberGeneratorImpl"/>
 
 </beans>
